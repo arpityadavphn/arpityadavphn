@@ -17,6 +17,7 @@ and turning them into systems that just... run.
 My playground sits somewhere between:
 
 **Automation · Data · APIs · Web · AI · Systems**
+
 ---
 
 ## ⚙️ Things I've Built
@@ -35,7 +36,6 @@ My playground sits somewhere between:
 
 ## 🧰 My Toolbox
 
-```text
 Python       SQL          VBA
 Playwright   Selenium     Pandas
 PostgreSQL   Power BI     Power Query
