@@ -11,58 +11,39 @@
 
 ### I build machines for messy problems.
 
-I like turning repetitive, manual, and messy processes into systems that can
-collect data, make decisions, move information between systems, and get work done.
+I like taking things that normally require **people, repetition and time**
+and turning them into systems that just... run.
 
-My current focus is around:
+My playground sits somewhere between:
 
-- ⚙️ Automation & Workflow Engineering
-- 🌐 Web Scraping & Data Extraction
-- 🔗 APIs & System Integrations
-- 🗄️ Data Pipelines & Databases
-- 🤖 AI-powered Automation
+**Automation · Data · APIs · Web · AI · Systems**
 ---
 
-### Projects & Work
+## ⚙️ Things I've Built
 
-- **[Swiggy SQL Ad-Hoc Analysis Project](https://github.com/arpityadavphn/SQL-Ad-Hoc-Analysis)**: This analysis uses a public dataset inspired by delivery and restaurant trends in platforms like Swiggy or Zomato. It serves as a demonstration of my technical and analytical problem-solving skills, focusing on SQL proficiency, business logic, and insight generation.
+| Project | What it does |
+|---|---|
+| 🍍 **PineApple Bot** | Finds today's notable birthdays → generates articles with Gemini → publishes automatically to Blogger every morning. |
+| 🕷️ **Web Crawlers** | Built scrapers for UDISE, GIS, books, Amazon, competitor websites, coaching centres and more. |
+| 🔐 **CRM Data Extractor** | Turns an authenticated browser session into a bulk data extraction pipeline when the normal reporting interface isn't enough. |
+| 📚 **Curriculum Automation Engine** | Automates the creation and population of large education-board structures using Playwright. |
+| 📧 **EMSS Automation** | Generates examination documents and distributes them automatically across ~1,000 schools and ~4 lakh students. |
+| 🧠 **OMR OCR Tool** | Recovers missing candidate data from scanned OMR sheets using OCR. |
+| 🗃️ **Large-Scale Data Engine** | Extracted ~15 lakh records across states and districts using API analysis, OCR and asynchronous processing. |
+| 🏆 **Rank Generator** | Turns complicated examination ranking rules into an automated result engine. |
+| 🧩 **Paper ID Predictor** | Matches student response patterns against possible paper IDs to resolve data inconsistencies. |
 
----
+## 🧰 My Toolbox
 
-## 🧰 What I Work With
-
-### Languages
-Python · SQL · VBA
-
-### Automation & Data Extraction
-Playwright · Selenium · Pandas
-
-### Data
-PostgreSQL · Power Query · Power BI · Parquet
-
-### Systems & Integration
-REST APIs · Webhooks · Git · Linux
+```text
+Python       SQL          VBA
+Playwright   Selenium     Pandas
+PostgreSQL   Power BI     Power Query
+REST APIs    SPARQL       Git
+Linux        Docker       AI APIs
 
 ### Exploring
 Docker · Backend Systems · System Design · AI Agents · Data Engineering
-
----
-
-## 🏗️ Things I've Built
-
-### 🕷️ Web & Data Extraction
-Systems that collect and process large-scale data from websites and APIs.
-
-### ⚙️ Business Process Automation
-Automations that replace repetitive manual workflows with reliable machines.
-
-### 🤖 PineApple Bot
-A Python-based content automation system that discovers information,
-generates content, and publishes it automatically.
-
-### 📊 Data & Analytics Systems
-Data pipelines, transformations, Power BI models, and automated reporting
-workflows.
 
 ---
 
@@ -78,6 +59,7 @@ Instead of trying to memorise every syntax or framework, I focus on understandin
 **What happens when something breaks?**
 
 Then I build something with it.
+
 
 #### Soft Skills
 ⏳ Time Management    
@@ -113,11 +95,3 @@ Then I build something with it.
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=firefox&logoColor=white)](google.com)
 
 I’m always open to discussing new projects, ideas, or opportunities to collaborate. Feel free to reach out!
-
----
-
-### 📈 Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpityadavphn&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
