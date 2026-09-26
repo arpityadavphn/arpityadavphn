@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=arpityadavphn&label=Profile%20Views&color=0e75b6&style=flat)
-# Hi there, I'm Arpit Yadav! 👋
+# Hi there, I'm Arpit! 👋
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=firefox&logoColor=white)](google.com) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpityadavphn/) 
@@ -9,12 +9,18 @@
 
 ### About Me
 
-I'm a **Data Analyst**  with a Bachelor's Degree in Commerce. I love working on real-life projects and leveraging tools like **Excel**, **Power BI**, **Python** and **SQL** to turn data into actionable insights.
+### I build machines for messy problems.
 
-- 🌱 Currently honing my skills in **Python** and **Advanced Data Analysis**.
-- 📊 Passionate about creating **data-driven solutions** and developing insightful **dashboards**.
-- 💻 Enjoy working in **Python** and **SQL** focusing on generating useful insights and projects.
-- 🎨 Have a knack for **graphic design** and enjoy applying these skills to enhance my projects.
+I like turning repetitive, manual, and messy processes into systems that can
+collect data, make decisions, move information between systems, and get work done.
+
+My current focus is around:
+
+- ⚙️ Automation & Workflow Engineering
+- 🌐 Web Scraping & Data Extraction
+- 🔗 APIs & System Integrations
+- 🗄️ Data Pipelines & Databases
+- 🤖 AI-powered Automation
 ---
 
 ### Projects & Work
@@ -23,17 +29,58 @@ I'm a **Data Analyst**  with a Bachelor's Degree in Commerce. I love working on 
 
 ---
 
-### Skills
+## 🧰 What I Work With
 
-#### Tools
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
-![AI Tools](https://img.shields.io/badge/-AI%20Tools-5D3FD3?style=flat&logo=artificial-intelligence&logoColor=white)
+### Languages
+Python · SQL · VBA
+
+### Automation & Data Extraction
+Playwright · Selenium · Pandas
+
+### Data
+PostgreSQL · Power Query · Power BI · Parquet
+
+### Systems & Integration
+REST APIs · Webhooks · Git · Linux
+
+### Exploring
+Docker · Backend Systems · System Design · AI Agents · Data Engineering
+
+---
+
+## 🏗️ Things I've Built
+
+### 🕷️ Web & Data Extraction
+Systems that collect and process large-scale data from websites and APIs.
+
+### ⚙️ Business Process Automation
+Automations that replace repetitive manual workflows with reliable machines.
+
+### 🤖 PineApple Bot
+A Python-based content automation system that discovers information,
+generates content, and publishes it automatically.
+
+### 📊 Data & Analytics Systems
+Data pipelines, transformations, Power BI models, and automated reporting
+workflows.
+
+---
+
+## 🧠 How I Learn
+
+I learn by building.
+
+Instead of trying to memorise every syntax or framework, I focus on understanding:
+
+**How does the system work?**  
+**Why was it designed this way?**  
+**How do the components communicate?**  
+**What happens when something breaks?**
+
+Then I build something with it.
 
 #### Soft Skills
-⏳ Time Management  
+⏳ Time Management    
 🔍 Problem Solving  
 🔄 Adaptability  
 🤝 Team Collaboration
