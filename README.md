@@ -1,7 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=arpityadavphn&label=Profile%20Views&color=0e75b6&style=flat)
 # Hi there, I'm Arpit! 👋
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=firefox&logoColor=white)](google.com) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpityadavphn/) 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arpityadavphn@gmail.com)
 
@@ -68,12 +67,6 @@ Instead of trying to memorise every syntax or framework, I focus on understandin
 **What happens when something breaks?**
 
 Then I build something with it.
-
-
-
-#### Additional Skills
-- Data Statistics
-- Analytical Thinking
 
 ---
 ## 🎓 Background
