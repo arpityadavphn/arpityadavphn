@@ -34,13 +34,25 @@ My playground sits somewhere between:
 | 🏆 **Rank Generator** | Turns complicated examination ranking rules into an automated result engine. |
 | 🧩 **Paper ID Predictor** | Matches student response patterns against possible paper IDs to resolve data inconsistencies. |
 
-## 🧰 My Toolbox
+## 🧰 Toolbox
 
-Python       SQL          VBA
-Playwright   Selenium     Pandas
-PostgreSQL   Power BI     Power Query
-REST APIs    SPARQL       Git
-Linux        Docker       AI APIs
+**Languages**  
+`Python` `SQL` `VBA`
+
+**Automation & Extraction**  
+`Playwright` `Selenium` `Tesseract OCR` `Pandas`
+
+**Data & Databases**  
+`PostgreSQL` `Power BI` `Power Query` `Parquet` `DuckDB`
+
+**APIs & Integration**  
+`REST APIs` `SPARQL` `Blogger API` `Gemini API`
+
+**Development & Systems**  
+`Git` `GitHub` `Linux` `Docker`
+
+**Exploring**  
+`Backend Systems` `Data Engineering` `System Design` `AI Agents`
 
 ### Exploring
 Docker · Backend Systems · System Design · AI Agents · Data Engineering
