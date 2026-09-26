@@ -54,9 +54,6 @@ My playground sits somewhere between:
 **Exploring**  
 `Backend Systems` `Data Engineering` `System Design` `AI Agents`
 
-### Exploring
-Docker · Backend Systems · System Design · AI Agents · Data Engineering
-
 ---
 
 ## 🧠 How I Learn
@@ -73,21 +70,18 @@ Instead of trying to memorise every syntax or framework, I focus on understandin
 Then I build something with it.
 
 
-#### Soft Skills
-⏳ Time Management    
-🔍 Problem Solving  
-🔄 Adaptability  
-🤝 Team Collaboration
 
 #### Additional Skills
 - Data Statistics
 - Analytical Thinking
 
 ---
-### Experience & Education
+## 🎓 Background
 
-- 🎓 **Bachelor's in Commerce** from University of Lucknow, 2023
-- 🏅 Administrative Assitant, Dept. of Commerce at Lucknow University
+B.Com — University of Lucknow · 2023
+
+Currently working in Strategy & Business Analysis,
+building automation, data systems and internal tools.
 
 
 ---
