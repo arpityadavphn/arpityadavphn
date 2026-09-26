@@ -78,9 +78,9 @@ Then I build something with it.
 ---
 ## 🎓 Background
 
-B.Com — University of Lucknow · 2023
+B.Com - University of Lucknow · 2023
 
-Currently working in Strategy & Business Analysis,
+Currently working in **Strategy & Business Analysis**,
 building automation, data systems and internal tools.
 
 
@@ -89,7 +89,6 @@ building automation, data systems and internal tools.
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=arpityadavphn&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=arpityadavphn&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ---
